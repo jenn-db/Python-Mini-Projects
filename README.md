@@ -1,4 +1,4 @@
-# Python for Data Analysis
+# Python for Data Analysis - Projects
 
 Skills used: matplotlib, pandas, numpy, seaborn, webscraping
 
