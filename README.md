@@ -9,6 +9,6 @@ I used libraries like Seaborn and Matplotlib to showcase the relationship betwee
 Overall, this project provides valuable insights into the correlation between discounts, sales, and profit, which can help inform the company's sales and pricing strategies in the future.
 
 
-[Project](https://github.com/jenn-db/Python-Corr-matrix/blob/main/python_correlation.ipynb)
+[Jupyter Notebook Link](https://github.com/jenn-db/Python-Corr-matrix/blob/main/python_correlation.ipynb)
 
 ## Project 2 - Webscraping 
