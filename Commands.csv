@@ -1,0 +1,193 @@
+Feature,AROS,FreeBSD,Linux-based,HP-UX,OpenVMS,macOS,Solaris,Windows cmd,Windows PowerShell
+Limited,?,?,"65,135","200 GB (2
+             
+              GiB
+             
+
+              Unicode
+             
+             )","200 GB (2
+             
+              GiB
+             
+
+              Unicode
+             
+             )",64 bits,?,?,?
+Unlimited,"16
+             
+              EiB","65,530 B","65,135 / (10+ AvgFieldNameLength)","4
+             
+              GiB",?,64 bits,?,?,128
+Unlimited,Unlimited,Unlimited,"1,012 (5,000 in views)","2,147,483,647 chars","254 (
+             
+              VARCHAR
+             
+             : 32,672)",64 bits,0001-01-01,9999-12-31,128
+Unlimited,Unlimited,"64 MB on Appliance, 4 MB on AWS",?,64 MB,64 MB,64 MB,0001-01-01,9999-12-31,254
+2 EB,2 EB,Unlimited,Unlimited,Unlimited,1 GB,64 bits,0001-01-01,9999-12-31,254
+Unlimited,"2
+             
+              ZB","1,048,319 B","1,012",2 GB,"32
+             
+              KiB",64 bits,0001-01-01,9999-12-31,128
+Unlimited,"2
+             
+              63
+             
+             -1 bytes",2 GB,"32,767",2 GB,2 GB,64 bits,0000-01-01,9999-12-31,32
+Unlimited,Unlimited,Unlimited,"10,000",N/A,2 MB,128 bits,0001-01-01,9999-12-31,256
+8 TB,8 TB,8 TB,"256,000,000",4 GB,"10,000,000","1 billion characters, 10^-400 to 10^400, +-",0001-01-01,4000-12-31,100
+"Unlimited
+             
+
+               1",~32 TB,"65,536 B",Depends on data types used,32 GB,"32,767 B",64 bits,100,32768,31
+64 TB,"Unlimited
+             
+
+               8","Unlimited
+             
+
+               8","Unlimited
+             
+
+               8","64 TB
+             
+
+               7","Unlimited
+             
+
+               8","Unlimited
+             
+
+               8",0001-01-01,9999-12-31,128
+64 TB,"Unlimited
+             
+
+               8","Unlimited
+             
+
+               8","Unlimited
+             
+
+               8","64 TB
+             
+
+               7","Unlimited
+             
+
+               8",64 bits,-99999999,99999999,"Unlimited
+             
+
+               8"
+"~128 PB
+             
+
+               12","~128 PB
+             
+
+               12","32,765 bytes (exclusive of large objects)","32,765",4 TB,"32,765","10
+             
+              125
+             
+
+
+               13","01/01/0001
+             
+
+               10",12/31/9999,128 bytes
+Unlimited,Unlimited,256 KB,"1,024",2 GB,32 000 B,64 bits,0001,9999,256
+"Unlimited
+             
+
+               1",~32 TB,"65,536 B",Depends on data types used,2 GB,"32,767 B",64 bits,100,32768,31
+Unlimited,"2
+             
+              30
+             
+             rows","64 KB (w/o BLOBs), 2GB (each BLOB value)",250,2 GB,4000 B,64 bits,0001-01-01,9999-12-31,66
+Unlimited,MyISAM storage limits: 256 TB; Innodb storage limits: 64 TB; Aria storage limits: ???,"64 KB
+             
+
+               3","4,096
+             
+
+               4","4 GB (longtext, longblob)",64 KB (text),64 bits,1000,9999,"64
+             
+
+               [70]"
+2 GB,2 GB,16 MB,255,"64 KB (memo field), 1 GB (""OLE Object"" field)",255 B (text field),32 bits,0100,9999,64
+Unlimited,2 GB,"65,500 B",255,2 GB,16 MB,32 bits,0001,9999,10
+"524,272 TB (32 767 files * 16 TB max file size)
+             
+              16ZB per instance","524,272 TB","8,060 bytes/2TB
+             
+
+               6","1,024/30,000(with sparse columns)",2 GB/Unlimited (using RBS/FILESTREAM object),"2 GB
+             
+
+               6","126 bits
+             
+
+               2",0001,9999,128
+4 GB,4 GB,"8,060 bytes",1024,2 GB,4000,154 bits,0001,9999,128
+Unlimited,Unlimited,16000 (+lob data),252,Unlimited,15000,45 digits,0001-01-01,9999-12-31,128
+Unlimited,Unlimited,Unlimited,Unlimited,2 GB,2 GB,128 bits,-9999-01-01,9999-12-31,1024
+Unlimited,MyISAM storage limits: 256 TB; Innodb storage limits: 64 TB,"64 KB
+             
+
+               3","4,096
+             
+
+               4","4 GB (longtext, longblob)",64 KB (text),64 bits,1000,9999,64
+32 TB per instance (Unlimited via elastic cluster),DB size (or 32 TB),4 KB,200,2 GB,2 GB,"2
+             
+              31",0,9999,100
+"2PB (with standard 8k block)
+             
+              8PB (with max 32k block)
+8EB (with max 32k block and BIGFILE option)",4 GB * block size (with BIGFILE tablespace),8 KB,"1,000",128 TB,"32,767 B
+             
+
+               11",126 bits,−4712,9999,128
+4 billion objects,256 GB,2 GB,"1,536",2 GB,"8,000 bytes",64 bits,01-01-0001,12-31-9999,128 bytes
+"Limited by available RAM, address space","2
+             
+              32
+             
+             rows",Unlimited,"65,536",4 GB (subject to RAM),4 GB (subject to RAM),64 bits,0001-01-01,8000-12-31,255
+Unlimited,32 TB,1.6 TB,250–1600 depending on type,"1 GB (text, bytea) stored inline or 4 TB using pg_largeobject
+             
+
+
+                [72]",1 GB,Unlimited,"−4,713
+             
+
+
+                [73]","5,874,897",63
+Unlimited,"2
+             
+              48
+             
+             -1 rows",32 KB,"1,000",4 GB,"char: 256, varchar: 4 KB",64 bits,0001-01-01,11758978-12-31,31
+Unlimited,"2
+             
+              64
+             
+             -1 rows",32 KB,"32,768",Unlimited,32 KB,64 bits,0001-01-01,11758978-12-31,32
+?,?,?,?,?,?,?,?,?,?
+256 TB,256 TB,32 KB + BLOB data,Limited by row size,4 GB,4 GB,64 bits,-32768-01-01,32767-12-31,254
+"104 TB (13 files, each file up to 8 TB (32 KB pages))",Limited by file size,Limited by file size,"45,000",2 GB,2 GB,64 bits,0001-01-01,9999-12-31,128 bytes
+"128 TB (2
+             
+              31
+             
+             pages * 64 KB max page size)",Limited by file size,Limited by file size,"32,767",2 GB,2 GB,64 bits,"No DATE type
+             
+
+               9","No DATE type
+             
+
+               9",Unlimited
+Unlimited,Unlimited,64000 wo/lobs (64 GB w/lobs),"2,048",2 GB,"64,000",38 digits,0001-01-01,9999-12-31,128
+Unlimited,Unlimited,Unlimited,Unlimited,Unlimited,Unlimited,Unlimited,Unlimited,Unlimited,Unlimited
