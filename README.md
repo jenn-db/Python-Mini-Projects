@@ -11,6 +11,6 @@ Overall, this project provides valuable insights into the correlation between di
 
 [Jupyter Notebook Link](https://github.com/jenn-db/Python-Corr-matrix/blob/main/python_correlation.ipynb)
 
-## Project 2 - Webscraping a table from Wikipedia
+## Project 2 - Webscraping tabular data from Wikipedia
 
 I used BeautifulSoup and requests to webscrape the 4th table [from this wikipedia page](https://en.wikipedia.org/wiki/Comparison_of_operating_systems#Commands) that compares operating systems.
