@@ -14,3 +14,7 @@ Overall, this project provides valuable insights into the correlation between di
 ## Project 2 - Webscraping tabular data from Wikipedia
 
 I used BeautifulSoup and requests to webscrape the 4th table [from this wikipedia page](https://en.wikipedia.org/wiki/Comparison_of_operating_systems#Commands) that compares operating systems.
+
+
+  * [Jupyter Notebook Link](https://github.com/jenn-db/Python-Projects-DA/blob/main/Wikipedia%20Table%20Scraper%20.ipynb)
+  * [Output]()
