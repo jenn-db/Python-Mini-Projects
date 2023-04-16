@@ -18,3 +18,7 @@ I used BeautifulSoup and requests to webscrape the 4th table [from this wikipedi
 
   * [Jupyter Notebook Link](https://github.com/jenn-db/Python-Projects-DA/blob/main/Wikipedia%20Table%20Scraper%20.ipynb)
   * [Output](https://github.com/jenn-db/Python-Projects-DA/blob/main/Commands.csv)
+
+
+## Project 3 - Using a Public API with Python
+ ### Automating Crypto Website API
