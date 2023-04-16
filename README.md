@@ -1,6 +1,6 @@
 # Python for Data Analysis - Projects
 
-Skills used: matplotlib, pandas, numpy, seaborn, webscraping
+Skills used: matplotlib, pandas, numpy, seaborn, webscraping, API data retrieval. 
 
 ## Project 1 - Python Scatterplot and Correlation Matrix
 
