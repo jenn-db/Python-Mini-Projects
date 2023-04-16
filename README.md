@@ -13,4 +13,4 @@ Overall, this project provides valuable insights into the correlation between di
 
 ## Project 2 - Webscraping a table from Wikipedia
 
-I used BeautifulSoup and requests to webscrape the 4th table [in this wikipedia page](https://en.wikipedia.org/wiki/Comparison_of_operating_systems#Commands). 
+I used BeautifulSoup and requests to webscrape the 4th table [from this wikipedia page](https://en.wikipedia.org/wiki/Comparison_of_operating_systems#Commands). 
