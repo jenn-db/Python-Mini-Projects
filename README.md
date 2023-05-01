@@ -20,4 +20,7 @@ I used BeautifulSoup and requests to webscrape the 4th table [from this wikipedi
   * [Output](https://github.com/jenn-db/Python-Projects-DA/blob/main/Commands.csv)
 
 
-## Project 3 -
+## Project 3 - CoinMarketCap - Pulling Data on Cryptocurrencies using a Public API
+
+
+
